@@ -8,7 +8,7 @@ This text is _italic_ yes.
 **This is bold _italic_ Text**
 Catman Tiger once sed:
 > All Human are Nice!
-> 
+
 That is what he says.
 
 Use `git status` to list all new or modified files that haven't yet been committed.
